@@ -4,7 +4,7 @@ import VueSocketIO from 'vue-socket.io'
 export default function () {
   Vue.use(new VueSocketIO({
     debug: false,
-    connection: 'https://alemdoportaomovement.com/',
-    options: { path: '/api/' }
+    connection: 'https://alemdoportaomovement.com/'
+    // options: { path: '/api/' }
   }))
 }
