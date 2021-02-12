@@ -17,6 +17,7 @@
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6",
     "popper.js": "^1.16.1",
+    "socket.io-client": "^2.3.1",
     "vue-socket.io": "^3.0.10"
   },
   "devDependencies": {
